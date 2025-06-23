@@ -1,12 +1,1 @@
-{
-  "name": "manajemen-mahasiswa-json",
-  "version": "1.0.0",
-  "description": "Aplikasi manajemen data mahasiswa dengan JSON tanpa database",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-    "express": "^4.21.2"
-  }
-}
+
